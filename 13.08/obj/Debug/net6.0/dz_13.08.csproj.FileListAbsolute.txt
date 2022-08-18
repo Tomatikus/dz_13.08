@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Учеба\dz 06.08\dz_13.08\obj\Debug\net6.0\dz_13.08.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Учеба\dz 06.08\dz_13.08\obj\Debug\net6.0\dz_13.08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Учеба\dz 06.08\dz_13.08\obj\Debug\net6.0\dz_13.08.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Учеба\dz 06.08\dz_13.08\obj\Debug\net6.0\dz_13.08.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Учеба\dz 06.08\dz_13.08\obj\Debug\net6.0\dz_13.08.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Учеба\dz 06.08\dz_13.08\bin\Debug\net6.0\dz_13.08.exe
+C:\Users\Admin\Desktop\Учеба\dz 06.08\dz_13.08\bin\Debug\net6.0\dz_13.08.deps.json
+C:\Users\Admin\Desktop\Учеба\dz 06.08\dz_13.08\bin\Debug\net6.0\dz_13.08.runtimeconfig.json
+C:\Users\Admin\Desktop\Учеба\dz 06.08\dz_13.08\bin\Debug\net6.0\dz_13.08.dll
+C:\Users\Admin\Desktop\Учеба\dz 06.08\dz_13.08\bin\Debug\net6.0\dz_13.08.pdb
+C:\Users\Admin\Desktop\Учеба\dz 06.08\dz_13.08\obj\Debug\net6.0\dz_13.08.dll
+C:\Users\Admin\Desktop\Учеба\dz 06.08\dz_13.08\obj\Debug\net6.0\refint\dz_13.08.dll
+C:\Users\Admin\Desktop\Учеба\dz 06.08\dz_13.08\obj\Debug\net6.0\dz_13.08.pdb
+C:\Users\Admin\Desktop\Учеба\dz 06.08\dz_13.08\obj\Debug\net6.0\dz_13.08.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Учеба\dz 06.08\dz_13.08\obj\Debug\net6.0\ref\dz_13.08.dll
